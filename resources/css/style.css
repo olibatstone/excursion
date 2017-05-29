@@ -4,8 +4,13 @@ body {
   font-weight: normal;
 }
 
-header, main, footer {
+header, main {
   text-align: center;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
 
 h1, h2 {
